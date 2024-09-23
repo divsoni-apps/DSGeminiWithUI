@@ -1,6 +1,6 @@
-# Welcome to GPS CE Chatbot! 
+# Welcome to WGU Site Search! 
 
-You can add your descriptions here about the chatbot in markdown 
+This search agent helps answers questions regarding information on www.wgu.edu
 
 ## Capabilities
 
@@ -11,11 +11,11 @@ Will not use the contents of your chat history to learn new information.
 
 ## Examples :
 
-"Example questions here "
+"What is the admissions process at WGU"
 
-"What information can you help me with?"
+"What is the process of ordering a transcript"
 
-"How do I apply for the MWBE program?"
+"What are the admission requirements for the school of tech?"
 
 ## Limitations :
 
