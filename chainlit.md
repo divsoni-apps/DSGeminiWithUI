@@ -1,4 +1,4 @@
 
-# Welcome to SUNY Student Transcript Helper
+# Welcome to WGU AI Helper
 
-This is SUNY AI Helper which will help analyze student transcripts and help the decision for the appropriate colleges.
+This is WGU AI Helper which will help answer questions related to the www.wgu.edu.
