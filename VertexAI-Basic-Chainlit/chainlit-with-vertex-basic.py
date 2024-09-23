@@ -83,7 +83,7 @@ def initialize_conversation(client) -> Conversation:
 async def on_chat_start():
     conversation = initialize_conversation(discoveryengine_client)
     cl.user_session.set("conversation", conversation.name)
-    await cl.Message(content=f"Welcome to the Chatbot. Please ask your question below.", type="system_message").send()
+    await cl.Message(content=f"Welcome to the WGU Search (Powered by Vertex AI Search). Please ask your question below.", type="system_message").send()
 
 
 
