@@ -1,6 +1,6 @@
 # Welcome to WGU Site Search! 
 
-This search agent helps answers questions regarding information on www.wgu.edu
+This is WGU AI Helper which will help answer questions related to the www.wgu.edu.
 
 ## Capabilities
 
