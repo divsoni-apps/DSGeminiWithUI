@@ -5,6 +5,7 @@ COPY chainlit-with-vertex-basic.py app.py
 COPY requirements.txt /tmp/
 COPY chainlit.md chainlit.md
 COPY /.chainlit /.chainlit
+COPY /public /public
 RUN pip install --requirement /tmp/requirements.txt
 RUN pip install google-cloud-discoveryengine
 RUN pip install chainlit==1.0.401 
