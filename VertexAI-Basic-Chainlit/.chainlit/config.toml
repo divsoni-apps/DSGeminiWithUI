@@ -39,7 +39,7 @@ multi_modal = true
 
 [UI]
 # Name of the app and chatbot.
-name = "Google CE Chatbot"
+name = "WGU Search (Powered by Vertex AI Search)"
 
 # Show the readme while the thread is empty.
 show_readme_as_default = true
